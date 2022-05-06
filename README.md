@@ -67,7 +67,7 @@ Mail - Vijay@cloudnloud.com
   
 
 <br/>  
-# join our Discord Channel
+## join our Discord Channel
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](https://discord.gg/vbjRQGVhuF)
 
