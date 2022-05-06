@@ -11,7 +11,7 @@ An Computer Cleaner born and raised in Kumbakonam/India and currently settled in
 
 # My Life Story
 
-[![Watch the video](ctotalk.jpg)](https://blog.ctotalk.in/building-highly-accurate-fraud-detection-system-1a39b1f7014e)
+[![Watch the video](ctotalk.jpeg)](https://blog.ctotalk.in/building-highly-accurate-fraud-detection-system-1a39b1f7014e)
 
 - :newspaper: Computer Cleaner to Senior Architect **[My Life Journey](https://www.linkedin.com/feed/update/urn:li:activity:6925568536266317824/)**.
 
