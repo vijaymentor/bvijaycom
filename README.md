@@ -9,6 +9,10 @@ An Computer Cleaner born and raised in Kumbakonam/India and currently settled in
 
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/vijaystack/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) | [Twitter](https://twitter.com/bvijaycom) | [Instagram](https://www.instagram.com/bvijaycom/)
 
+# My Life Story
+
+- :newspaper: Computer Cleaner to Senior Architect **[My Life Journey](https://www.linkedin.com/feed/update/urn:li:activity:6925568536266317824/)**.
+
 --- 
 :tv: YouTube - Latest Videos
 
