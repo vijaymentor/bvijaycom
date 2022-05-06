@@ -15,7 +15,6 @@ An Computer Cleaner born and raised in Kumbakonam/India and currently settled in
 
 - :newspaper: Computer Cleaner to Senior Architect **[My Life Journey](https://www.linkedin.com/feed/update/urn:li:activity:6925568536266317824/)**.
 
-believeyourself.png
 
 [![Watch the video](believeyourself.png)](https://www.linkedin.com/feed/update/urn:li:activity:6909874259729223680/)
 
