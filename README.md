@@ -65,8 +65,12 @@ An Computer Cleaner born and raised in **Kumbakonam/India** and currently settle
 
 Mail - Vijay@cloudnloud.com
   
+## join our Discord Channel
+
+[![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](https://discord.gg/vbjRQGVhuF)
 
 <br/>  
+
 
 
 ## Github Stats  
