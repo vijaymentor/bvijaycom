@@ -20,6 +20,10 @@ An Computer Cleaner born and raised in **Kumbakonam/India** and currently settle
 
 - :newspaper: "𝐖𝐢𝐧 𝐭𝐡𝐞 𝐜𝐫𝐨𝐰𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐭𝐚𝐠𝐞 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮𝐫 𝐬𝐦𝐚𝐥𝐥 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞.𝐘𝐨𝐮 𝐰𝐢𝐥𝐥 𝐖𝐢𝐧 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐢𝐟𝐞" **[Believe In Yourself](https://www.linkedin.com/feed/update/urn:li:activity:6909874259729223680/)**.
 
+[![Watch the video](journey.png)](https://www.linkedin.com/feed/update/urn:li:activity:6930481278328692736/)
+
+- :newspaper: "𝐈 𝐧𝐞𝐯𝐞𝐫 𝐭𝐡𝐨𝐮𝐠𝐡𝐭 𝐭𝐡𝐚𝐭 𝐈 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐚 𝐦𝐞𝐧𝐭𝐨𝐫/𝐭𝐫𝐚𝐢𝐧𝐞𝐫.I was able to 𝐡𝐞𝐥𝐩 𝐚𝐫𝐨𝐮𝐧𝐝 𝟒𝟓𝐤 𝐬𝐭𝐮𝐝𝐞𝐧𝐭𝐬 𝐭𝐨 𝐥𝐨𝐮𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞𝐢𝐫 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞😊" **[𝐑𝐚𝐢𝐬𝐞𝐝 𝟒𝟓𝟎𝟎𝟎 𝐭𝐬𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞𝐢𝐫 𝐨𝐰𝐧 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞](https://www.linkedin.com/feed/update/urn:li:activity:6930481278328692736/)**.
+
 --- 
 # :tv: YouTube - Latest Videos
 
