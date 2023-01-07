@@ -107,3 +107,7 @@ Mail - Vijay@cloudnloud.com
 # Docker
   
 - [Managing Docker Containers](https://blog.cloudnloud.com/managing-docker-containers)
+
+# my meetup live
+  
+  [![Watch the video](ctotalk.jpeg)](https://youtu.be/cfaJY5P4sME)
