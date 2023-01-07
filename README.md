@@ -106,6 +106,4 @@ Mail - Vijay@cloudnloud.com
   
 # Docker
   
-  https://blog.cloudnloud.com/managing-docker-containers
-  
-  - [Managing Docker Containers](https://www.linkedin.com/feed/update/urn:li:activity:7017266138501795840/](https://blog.cloudnloud.com/managing-docker-containers)
+- [Managing Docker Containers](https://blog.cloudnloud.com/managing-docker-containers)
