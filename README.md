@@ -1,30 +1,32 @@
 # 💫 About Me:
 
-Hey there, *welcome to my GitHub world!* 👋 I'm **Rajaram Erraguntla**, but you can call me **Raj**.
+Hey there, *welcome to my GitHub world!* 👋 I'm **Vijayabalan Balakrishnan**, but you can call me **Vijay**.
 
-I've spent more than **7+ years as a CloudOps Lead | AWS Enthusiast | DevOps Evangelist** and I'm really into AWS and DevOps. 🚀 Imagine me as a digital architect who crafts the realm of cloud technology. It's like I'm the one ensuring the backstage magic runs seamlessly for software development (that's the SDLC part), all while grooving to the beat of DevOps practices. 🕺
+An Computer Cleaner born and raised in **Kumbakonam/India** and currently settled in **Belgium/Europe**.Currently working in Retail Support Services [Carrefour] as an Senior Cloud Advisory.
 
-I'm naturally skilled at solving problems. Think of me wielding a toolkit packed with specialized tools from Amazon Web Services (AWS) and the latest DevOps techniques. 🔧 With these tools, I engineer intelligent solutions to elevate our tech landscape. But here's something cool: I'm not just about the ordinary. I'm like an explorer venturing into the universe of open-source tools. They're akin to uncharted constellations in the sky, and I'm always thrilled to uncover new ones that illuminate our tech cosmos. ✨
+I've spent more than **24+ years as a Linux Admin | Middleware Admin | Subject Matter Expert | Infrasture Architect | Solution Architect | Enterprise Architect | Senior Advisory ** and I'm really into Infra Re-Engineering. 🚀
 
-My journey revolves around devising ingenious solutions, embarking on AWS expeditions, and navigating uncharted territories in the open-source world. Together, these threads weave a tapestry of seamless operations. If technology were a masterpiece, I'd be the precise brushstrokes on the canvas of innovation! 🎨
+I'm naturally skilled at solving problems. Think of me wielding a toolkit packed with specialized tools from Amazon Web My dream is to help all computer professionals, students and educators get the right information through helpful mentoring. Need to implement a permanent helping hand to all dying children just because they don't have money, children higher education, old age people, etc. 🔧 “𝐌𝐚𝐤𝐢𝐧𝐠 𝐚 𝐩𝐨𝐬𝐢𝐭𝐢𝐯𝐞 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐢𝐧 𝐨𝐭𝐡𝐞𝐫 𝐩𝐞𝐨𝐩𝐥𝐞’𝐬 𝐥𝐢𝐯𝐞𝐬 𝐢𝐧𝐜𝐫𝐞𝐚𝐬𝐞𝐬 𝐲𝐨𝐮𝐫 𝐬𝐞𝐥𝐟-𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐬𝐞𝐧𝐬𝐞 𝐨𝐟 𝐩𝐮𝐫𝐩𝐨𝐬𝐞.” ✨
 
 
 ## 🌱 Always Learning
 
-I believe in the power of continuous learning and staying up-to-date with the latest industry trends. I'm committed to enhancing my skills in cloud technologies, automation, and DevOps practices.
+Currently now im more focused on 63 various technologies, and I'm focused in training and helping my community members learn about it. I'm proud to say I'm the founder of "The CloudnLoud Tech Community", which has grown and is now active in 13 countries. Our main goal is to help children with cancer, and this has driven me to create skilled leaders in the tech field from my community.
+
+As a Cloudnloud Community Founder, I have been instrumental in organizing and leading various Kubernetes events that aim to bring together developers, enthusiasts, and experts to share their knowledge and experiences. These events have provided valuable insights into the latest trends and best practices in cloud-native technologies, fostering a strong sense of community among attendees.
 
 ## 📬 Let's Connect
 
-Feel free to reach out to me for collaboration, discussions, or any queries related to CloudOps, AWS, DevOps, or technology in general.
+Feel free to reach out to me for collaboration, discussions, or any queries related to Career, AWS, DevOps, or technology in general.
 
 <div align="center">
 
 ## 🌐 You can connect with me on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamrajaram1)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamrajaram1)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamrajaram1)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:rajaram.erraguntla@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijaystack)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cloudnloud)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cloudnloud)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:vijay@cloudnloud.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CloudnLoud)
 
 </div>
@@ -33,9 +35,9 @@ Feel free to reach out to me for collaboration, discussions, or any queries rela
 
 ## 👁️ Profile Views📅
 
-[![Profile Views](https://komarev.com/ghpvc/?username=iamrajaram1&color=blue)](https://github.com/iamrajaram1)
-[![GitHub stars](https://img.shields.io/github/stars/iamrajaram1/iamrajaram1?style=social)](https://github.com/iamrajaram1/iamrajaram1)
-[![GitHub last commit](https://img.shields.io/github/last-commit/iamrajaram1/iamrajaram1)](https://github.com/iamrajaram1/iamrajaram1/commits/master)
+[![Profile Views](https://komarev.com/ghpvc/?username=bvijaycom&color=blue)](https://github.com/bvijaycom)
+[![GitHub stars](https://img.shields.io/github/stars/bvijaycom/bvijaycom?style=social)](https://github.com/bvijaycom/bvijaycom)
+[![GitHub last commit](https://img.shields.io/github/last-commit/bvijaycom/bvijaycom)](https://github.com/bvijaycom/bvijaycom/commits/master)
 
 </div>
 
@@ -134,34 +136,18 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 </div>
 
 
-## :rocket: My Current CNCF Endeavors
-
-I'm proud to be a contributor to CNCF projects and other technologies:
-
-
-:white_check_mark: **Komiser:** Cloud Environment Inspector. [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamrajaram1/komiser)
-
-:white_check_mark: **Zabbix:** Monitoring solution for networks and servers. [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamrajaram1/zabbix)
-
-:white_check_mark: **Tailwarden:** A self-hosted Bitwarden server with analytics. [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamrajaram1/tailwarden)
-
-:white_check_mark: **Wazuh:** Security information and event management (SIEM) platform. [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamrajaram1/Wazuh)
-
-:white_check_mark: **ELK Stack:** Elasticsearch, Logstash, and Kibana for powerful log management and analytics. [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamrajaram1/ELK-Stack)
-
-
 ---
 
-![GitHub Profile](https://github-readme-stats.vercel.app/api?username=iamrajaram1&show_icons=true&theme=white)
+![GitHub Profile](https://github-readme-stats.vercel.app/api?username=bvijaycom&show_icons=true&theme=white)
 
 ## 🌟 Technical Contribution & Volunteering
 
-![CloudnLoud Tech Community](https://github.com/iamrajaram1/iamrajaram1/blob/main/cloudnloud-Community.gif)
+![CloudnLoud Tech Community](https://github.com/bvijaycom/bvijaycom/blob/main/cloudnloud-Community.gif)
 
-**Community Leader (CloudOps Lead Evangelist)**
-- 🚀 Role: Community CloudOps Lead Evangelist
+**Community Founder **
+- 🚀 Role: Founder - Cloudnloud Tech Community
 - 🔗 Community Link: [CloudnLoud Tech Community](https://cloudnloud.com)
-- 🌟 Proudly part of the CloudnLoud Tech Community Core team.
+- 🌟 Proudly creating many leaders in tech world past 17 years
 
 The ☁️ CloudnLoud Tech Community is a non-profit open source tech community, driven by volunteers, presenting events and activities for tech enthusiasts.
 
@@ -176,11 +162,112 @@ We organize free tech conferences, technical trainings, and discussions on vario
 
 # :globe_with_meridians: Join Me in the Meetup Sphere:
 
-Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm an active Co-Organizer in these vibrant meetup communities:
+Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm an **founder in these vibrant meetup communities**:
 
-- :rocket: Co-Organizer of **cloud-devops-sre-europe-uk** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/cloud-devops-sre-europe-uk/) - where cloud, DevOps, and SRE enthusiasts converge for insightful discussions and learning experiences.
+- https://www.meetup.com/cloudnloud/
+- https://www.meetup.com/cloud-devops-sre-europe-uk/
+- https://www.meetup.com/data-ai-ml-europe-uk/
+- https://www.meetup.com/cloud-native-europe-uk/
+- https://www.meetup.com/cloudnloud-genai-labs/
 
-- :partying_face: Co-Organizer of **Cloud Native Europe & UK** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/cloud-native-europe-uk/) - a dynamic space for the cloud-native curious to gather, exchange ideas, and explore the latest trends.
+# Current Cloudnloud Tech Community Team:
+
+𝐋𝐞𝐚𝐝𝐞𝐬𝐡𝐢𝐩 𝐚𝐧𝐝 𝐀𝐈/𝐌𝐋/𝐃𝐚𝐭𝐚
+
+- Ayyanar Jeyakrishnan (AJ) - https://www.linkedin.com/in/jayyanar/
+- Angayarkanni Seransenguttuvan - https://www.linkedin.com/in/angaiteki/
+- Abishek Subramanian - https://www.linkedin.com/in/abishek-subramanian/
+
+𝐂𝐥𝐨𝐮𝐝 & 𝐃𝐞𝐯𝐎𝐩𝐬
+
+- VijayaLakshmi yalamanchili - https://www.linkedin.com/in/iamvijaya/
+- Deepa Mathan - https://www.linkedin.com/in/deepamathan/
+- Fawaz C P ☁️ - https://www.linkedin.com/in/fawaz-c-p-5618b1183/
+- Sudipta Pati - https://www.linkedin.com/in/iamsudipta/
+- Sowmiya Shankar - https://www.linkedin.com/in/sowmishankar/
+- Bhanu Prasad - https://www.linkedin.com/in/bhanustack/
+- Anusha Nalajala - https://www.linkedin.com/in/anushanalajala/
+- Athira - https://www.linkedin.com/in/athiralead/
+- Sangeetha V - https://www.linkedin.com/in/sangeetha-vasudevan-86267624/
+- Manikanta Suru - https://www.linkedin.com/in/manitechy
+- Rajaram Erraguntla - https://www.linkedin.com/in/rajaramerraguntla/
+- Dharshan K - https://www.linkedin.com/in/dharshank/
+- Deepika - https://www.linkedin.com/in/deepika-sivadi-457156204/
+- Ajay Balaji - https://www.linkedin.com/in/ajaybj/
+- Mathinisha - https://www.linkedin.com/in/mathinisha/
+
+
+𝐂𝐋𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 - 𝐀𝐖𝐒 & 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧
+
+- Sreekanth Kurapati - https://www.linkedin.com/in/sreestack/
+
+𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 - 𝐀𝐖𝐒
+
+- Ramaswamy Arunachalam - https://www.linkedin.com/in/ramstack/
+- Arun Natarajan -  https://www.linkedin.com/in/arunix/
+
+𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 - 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐀𝐝𝐯𝐨𝐜𝐚𝐭𝐞 𝐚𝐧𝐝 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩
+
+- Kannammal G - https://www.linkedin.com/in/kannamgcyber/
+- Swetha Mudunuri - https://www.linkedin.com/in/swethamudunuri/
+- Ranjani Josi - https://www.linkedin.com/in/ranjinnijoshe/
+- Reeti U. - https://www.linkedin.com/in/reetiu/
+- Karthikeyan S. - https://www.linkedin.com/in/herbie36/
+
+𝐂𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 - 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 - 𝐒𝐑𝐄
+
+- Sibin John - https://www.linkedin.com/in/sibinjohn19/
+
+𝐂𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭
+
+- Shubh Dadhich - https://www.linkedin.com/in/shubhcloud/
+- Shyju Krishnan - https://www.linkedin.com/in/shyjustack/
+- Selvam R - https://www.linkedin.com/in/selvam-r-b4827288/
+- Ashok Ravi - https://www.linkedin.com/in/ashokstack/
+- Manzoor - https://www.linkedin.com/in/techmahan/
+- Senthil Shanmugavelu - https://www.linkedin.com/in/senthilcloud/
+- Padmini T - https://www.linkedin.com/in/padministack/
+- Puja Das - https://www.linkedin.com/in/pujastack/
+- Ramesh Sampath - https://www.linkedin.com/in/ramstech/
+- Manikandan R - https://www.linkedin.com/in/srirengaa/ [Networking]
+
+𝐅𝐢𝐧𝐎𝐩𝐬 𝐂𝐨𝐬𝐭 𝐒𝐚𝐯𝐢𝐧𝐠 - 𝐀𝐖𝐒
+
+- Ranjini Ganeshan - https://www.linkedin.com/in/ranjinig/
+
+
+𝐀𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 - 𝐀𝐈/𝐑𝐨𝐛𝐨𝐭𝐢𝐜𝐬
+
+- Aadhityaa SB - https://www.linkedin.com/in/aadhi06/
+- Vijayalakshmi Bakthavachalam - https://www.linkedin.com/in/vijayatech/
+- Jaswanth AI - https://www.linkedin.com/in/jaswanth-sabbineni-7ba081238/
+- Nisha Keswani - https://www.linkedin.com/in/nishakeswani/
+- Lavanya R - https://www.linkedin.com/in/iamlavanyar/
+
+𝐂𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 - 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐝𝐯𝐨𝐜𝐚𝐭𝐞
+
+- Veera solaiyappan - https://www.linkedin.com/in/veera26/
+- Muthuraj Anbalagan - https://www.linkedin.com/in/muthurajstack/
+- Deepika Karunakaran - https://www.linkedin.com/in/deepi19/
+
+
+𝐃𝐚𝐭𝐚 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 - 𝐒𝐥𝐨𝐰𝐥𝐲 𝐔𝐬𝐢𝐧𝐠 𝐀𝐈 𝐃𝐚𝐭𝐚
+
+- Janani Thesu Vasudevan - https://www.linkedin.com/in/jananitv/
+- Abinaya Devi S V - https://www.linkedin.com/in/abinayasv/
+- Hema Sai Sindhu Yerramsetti - https://www.linkedin.com/in/hema-yerramsetti/
+
+
+𝐃𝐚𝐭𝐚 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 - 𝐏𝐫𝐞𝐒𝐚𝐥𝐞𝐬  𝐀𝐈 & 𝐑𝐨𝐛𝐨𝐭𝐢𝐜𝐬
+
+- Ebin Babu - https://www.linkedin.com/in/ebin-babu/
+- Gnanapalaniselvi Perumal - https://www.linkedin.com/in/gnanapalaniselvi-perumal-23510b193/
+- Srinivasan Baskaran - https://www.linkedin.com/in/srinivasanbaskaran/
+- Sanjay Surwase - https://www.linkedin.com/in/sanjaystack/
+
+- Sai Phaneendra Allamraju - https://www.linkedin.com/in/sai-phaneendra-allamraju-4a1061105/
+- Jahnavi - https://www.linkedin.com/in/baby-jahnavi-vetukuri-b3136a61/
+- Samsul - https://www.linkedin.com/in/samsul-adam-m-2627a325/
 
 ## ☁️ Cloudnloud Community 2022 Free Programs
 
@@ -273,3 +360,23 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 
 </div>
 
+- :YouTube: I am helping technology and mentoring videos via my **[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
+
+- :newspaper: I contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
+
+- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/vijaystack/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) | [Twitter](https://twitter.com/bvijaycom) | [Instagram](https://www.instagram.com/bvijaycom/)
+
+# My Life Story
+
+[![Watch the video](ctotalk.jpeg)](https://blog.ctotalk.in/building-highly-accurate-fraud-detection-system-1a39b1f7014e)
+
+- :newspaper: Computer Cleaner to Senior Architect **[My Life Journey](https://www.linkedin.com/feed/update/urn:li:activity:6925568536266317824/)**.
+
+
+[![Watch the video](believeyourself.png)](https://www.linkedin.com/feed/update/urn:li:activity:6909874259729223680/)
+
+- :newspaper: "𝐖𝐢𝐧 𝐭𝐡𝐞 𝐜𝐫𝐨𝐰𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐭𝐚𝐠𝐞 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮𝐫 𝐬𝐦𝐚𝐥𝐥 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞.𝐘𝐨𝐮 𝐰𝐢𝐥𝐥 𝐖𝐢𝐧 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐢𝐟𝐞" **[Believe In Yourself](https://www.linkedin.com/feed/update/urn:li:activity:6909874259729223680/)**.
+
+[![Watch the video](journey.png)](https://www.linkedin.com/feed/update/urn:li:activity:6930481278328692736/)
+
+- :newspaper: "𝐈 𝐧𝐞𝐯𝐞𝐫 𝐭𝐡𝐨𝐮𝐠𝐡𝐭 𝐭𝐡𝐚𝐭 𝐈 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐚 𝐦𝐞𝐧𝐭𝐨𝐫/𝐭𝐫𝐚𝐢𝐧𝐞𝐫.𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐂𝐥𝐞𝐚𝐧𝐞𝐫 𝐭𝐨 𝐑𝐞-𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 😊" **[𝐑𝐚𝐢𝐬𝐞𝐝 𝟒𝟓𝟎𝟎𝟎 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞𝐢𝐫 𝐨𝐰𝐧 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞](https://www.linkedin.com/feed/update/urn:li:activity:6930481278328692736/)**.
