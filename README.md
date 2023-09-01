@@ -144,9 +144,9 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 
 ![CloudnLoud Tech Community](https://github.com/bvijaycom/bvijaycom/blob/main/cloudnloud-Community.gif)
 
-**Community Founder **
+**Community Founder**
 - 🚀 Role: Founder - Cloudnloud Tech Community
-- 🔗 Community Link: [CloudnLoud Tech Community](https://cloudnloud.com)
+- 🔗 Community Link: [CloudnLoud Tech Community](https://www.linkedin.com/company/80359681/)
 - 🌟 Proudly creating many leaders in tech world past 17 years
 
 The ☁️ CloudnLoud Tech Community is a non-profit open source tech community, driven by volunteers, presenting events and activities for tech enthusiasts.
