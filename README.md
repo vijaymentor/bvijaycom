@@ -23,7 +23,7 @@ Feel free to reach out to me for collaboration, discussions, or any queries rela
 
 ## 🌐 You can connect with me on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijaystack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijaymentor)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cloudnloud)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cloudnloud)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:vijay@cloudnloud.com)
@@ -36,8 +36,8 @@ Feel free to reach out to me for collaboration, discussions, or any queries rela
 ## 👁️ Profile Views📅
 
 [![Profile Views](https://komarev.com/ghpvc/?username=bvijaycom&color=blue)](https://github.com/bvijaycom)
-[![GitHub stars](https://img.shields.io/github/stars/bvijaycom/bvijaycom?style=social)](https://github.com/bvijaycom/bvijaycom)
-[![GitHub last commit](https://img.shields.io/github/last-commit/bvijaycom/bvijaycom)](https://github.com/bvijaycom/bvijaycom/commits/master)
+[![GitHub stars](https://img.shields.io/github/stars/bvijaycom/bvijaycom?style=social)](https://github.com/vijaymentor/vijaymentor)
+[![GitHub last commit](https://img.shields.io/github/last-commit/bvijaycom/bvijaycom)](https://github.com/vijaymentor/vijaymentor/commits/master)
 
 </div>
 
@@ -142,7 +142,7 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 
 ## 🌟 Technical Contribution & Volunteering
 
-![CloudnLoud Tech Community](https://github.com/bvijaycom/bvijaycom/blob/main/cloudnloud-Community.gif)
+![CloudnLoud Tech Community](https://github.com/vijaymentor/vijaymentor/blob/main/cloudnloud-Community.gif)
 
 **Community Founder**
 - 🚀 Role: Founder - Cloudnloud Tech Community
@@ -364,7 +364,7 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 
 - :newspaper: I contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
 
-- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/vijaystack/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) | [Twitter](https://twitter.com/bvijaycom) | [Instagram](https://www.instagram.com/bvijaycom/)
+- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/vijaymentor/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) | [Twitter](https://twitter.com/bvijaycom) | [Instagram](https://www.instagram.com/bvijaycom/)
 
 # My Life Story
 
