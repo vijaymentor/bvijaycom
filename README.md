@@ -67,6 +67,10 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 [![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/iam/)
 [![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/vpc/)
 
+
+[![Cloud Native](https://img.shields.io/badge/Cloud%20Native-%234285F4.svg?logo=Cloud%20Native%20Computing%20Foundation&logoColor=white)](https://www.cncf.io/)
+
+
 ## DevOps Tools
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/)
@@ -85,6 +89,8 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 [![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-%23F80000.svg?logo=Oracle&logoColor=white)](https://www.oracle.com/cloud/)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/)
 [![Workfront](https://img.shields.io/badge/Workfront-%23007DDB.svg?logo=Workfront&logoColor=white)](https://www.workfront.com/)
+
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=Google%20Cloud&logoColor=white)](https://cloud.google.com/)
 
 ## Operating System
 
@@ -145,19 +151,13 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 ![CloudnLoud Tech Community](https://github.com/vijaymentor/vijaymentor/blob/main/cloudnloud-Community.gif)
 
 **Community Founder**
-- 🚀 Role: Founder - Cloudnloud Tech Community
+- 🚀 Role: **Founder - Cloudnloud Tech Community**
 - 🔗 Community Link: [CloudnLoud Tech Community](https://www.linkedin.com/company/80359681/)
 - 🌟 Proudly creating many leaders in tech world past 17 years
 
 The ☁️ CloudnLoud Tech Community is a non-profit open source tech community, driven by volunteers, presenting events and activities for tech enthusiasts.
 
 We organize free tech conferences, technical trainings, and discussions on various IT technologies & open source tools. Our mission is to bring together professionals, leaders, and companies to advance the success of the project and contribute to a meaningful cause — saving millions of children affected by cancer.
-
-
-## ROLE: 👨‍💼 AICAMP- HYDERABAD CHAPTER LEAD
-<p>
-🚀 I'm honored to serve as the Hyderabad Chapter Lead for AICamp, signifying my responsibility for guiding and supervising the initiatives of the AICamp community within the Hyderabad area. My goal is to cultivate an engaging and nurturing atmosphere, bringing together individuals passionate about AI to explore, exchange ideas, and work together. In my role as the Chapter Lead, I play a crucial part in molding the local AI community and facilitating the exchange of knowledge among its members. 🌆
-</p>
 
 
 # :globe_with_meridians: Join Me in the Meetup Sphere:
@@ -384,7 +384,3 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 
 
 
-<div align="center">
-  <img src="solution_architect_icon.png" alt="Solution Architect" width="50" height="50">
-  <img src="enterprise_architect_icon.png" alt="Enterprise Architect" width="50" height="50">
-</div>
