@@ -219,19 +219,20 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 
 - VijayaLakshmi yalamanchili - https://www.linkedin.com/in/iamvijaya/
 - Deepa Mathan - https://www.linkedin.com/in/deepamathan/
-- Fawaz C P ☁️ - https://www.linkedin.com/in/fawaz-c-p-5618b1183/
+- Fawaz C P ☁️ - https://www.linkedin.com/in/fawazcp
 - Sudipta Pati - https://www.linkedin.com/in/iamsudipta/
-- Sowmiya Shankar - https://www.linkedin.com/in/sowmishankar/
+- Sowmiya Shankar - https://www.linkedin.com/in/sowmistack/
 - Bhanu Prasad - https://www.linkedin.com/in/bhanustack/
 - Anusha Nalajala - https://www.linkedin.com/in/anushanalajala/
 - Athira - https://www.linkedin.com/in/athiralead/
-- Sangeetha V - https://www.linkedin.com/in/sangeetha-vasudevan-86267624/
+- Sangeetha V - https://www.linkedin.com/in/sangeetv/
 - Manikanta Suru - https://www.linkedin.com/in/manitechy
-- Rajaram Erraguntla - https://www.linkedin.com/in/rajaramerraguntla/
+- Rajaram Erraguntla - https://www.linkedin.com/in/iamrajaram1/
 - Dharshan K - https://www.linkedin.com/in/dharshank/
 - Deepika - https://www.linkedin.com/in/deepika-sivadi-457156204/
-- Ajay Balaji - https://www.linkedin.com/in/ajaybj/
+- Ajay Balaji - https://www.linkedin.com/in/ajay-bj/
 - Mathinisha - https://www.linkedin.com/in/mathinisha/
+- srinivasan Baskaran - https://www.linkedin.com/in/srinivasanbaskaran/
 
 
 𝐂𝐋𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 - 𝐀𝐖𝐒 & 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧
@@ -246,7 +247,7 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 - 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐀𝐝𝐯𝐨𝐜𝐚𝐭𝐞 𝐚𝐧𝐝 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩
 
 - Kannammal G - https://www.linkedin.com/in/kannamgcyber/
-- Swetha Mudunuri - https://www.linkedin.com/in/swethamudunuri/
+- Swetha Mudunuri - https://www.linkedin.com/in/iamswetha7/
 - Ranjani Josi - https://www.linkedin.com/in/ranjinnijoshe/
 - Reeti U. - https://www.linkedin.com/in/reetiu/
 - Karthikeyan S. - https://www.linkedin.com/in/herbie36/
@@ -259,14 +260,19 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 
 - Shubh Dadhich - https://www.linkedin.com/in/shubhcloud/
 - Shyju Krishnan - https://www.linkedin.com/in/shyjustack/
-- Selvam R - https://www.linkedin.com/in/selvam-r-b4827288/
+- Selvam R - https://www.linkedin.com/in/selvamraju007//
 - Ashok Ravi - https://www.linkedin.com/in/ashokstack/
 - Manzoor - https://www.linkedin.com/in/techmahan/
 - Senthil Shanmugavelu - https://www.linkedin.com/in/senthilcloud/
 - Padmini T - https://www.linkedin.com/in/padministack/
 - Puja Das - https://www.linkedin.com/in/pujastack/
 - Ramesh Sampath - https://www.linkedin.com/in/ramstech/
-- Manikandan R - https://www.linkedin.com/in/srirengaa/ [Networking]
+- Gnanapalaniselvi Perumal - https://www.linkedin.com/in/selvigp
+- Arun Natrajan - https://www.linkedin.com/in/iamarunix/
+
+Networking
+
+- Manikandan R - https://www.linkedin.com/in/srirengaa/
 
 𝐅𝐢𝐧𝐎𝐩𝐬 𝐂𝐨𝐬𝐭 𝐒𝐚𝐯𝐢𝐧𝐠 - 𝐀𝐖𝐒
 
@@ -280,30 +286,30 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 - Jaswanth AI - https://www.linkedin.com/in/jaswanth-sabbineni-7ba081238/
 - Nisha Keswani - https://www.linkedin.com/in/nishakeswani/
 - Lavanya R - https://www.linkedin.com/in/iamlavanyar/
+- Sampath Kumar Basa - https://www.linkedin.com/in/samtechno/
+
 
 𝐂𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 - 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐝𝐯𝐨𝐜𝐚𝐭𝐞
 
 - Veera solaiyappan - https://www.linkedin.com/in/veera26/
 - Muthuraj Anbalagan - https://www.linkedin.com/in/muthurajstack/
 - Deepika Karunakaran - https://www.linkedin.com/in/deepi19/
-
+- Gnanadeep Vetukuri- http://www.linkedin.com/in/iamgnanadeep/
+- Jahnavi Vetukuri - https://www.linkedin.com/in/jahnavivetukuri/
 
 𝐃𝐚𝐭𝐚 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 - 𝐒𝐥𝐨𝐰𝐥𝐲 𝐔𝐬𝐢𝐧𝐠 𝐀𝐈 𝐃𝐚𝐭𝐚
 
 - Janani Thesu Vasudevan - https://www.linkedin.com/in/jananitv/
 - Abinaya Devi S V - https://www.linkedin.com/in/abinayasv/
-- Hema Sai Sindhu Yerramsetti - https://www.linkedin.com/in/hema-yerramsetti/
+- Hema Sai Sindhu Yerramsetti - https://www.linkedin.com/in/hemaytech
 
 
 𝐃𝐚𝐭𝐚 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 - 𝐏𝐫𝐞𝐒𝐚𝐥𝐞𝐬  𝐀𝐈 & 𝐑𝐨𝐛𝐨𝐭𝐢𝐜𝐬
 
 - Ebin Babu - https://www.linkedin.com/in/ebin-babu/
-- Gnanapalaniselvi Perumal - https://www.linkedin.com/in/gnanapalaniselvi-perumal-23510b193/
 - Srinivasan Baskaran - https://www.linkedin.com/in/srinivasanbaskaran/
 - Sanjay Surwase - https://www.linkedin.com/in/sanjaystack/
-
 - Sai Phaneendra Allamraju - https://www.linkedin.com/in/sai-phaneendra-allamraju-4a1061105/
-- Jahnavi - https://www.linkedin.com/in/baby-jahnavi-vetukuri-b3136a61/
 - Samsul - https://www.linkedin.com/in/samsul-adam-m-2627a325/
 
 
