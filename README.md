@@ -13,7 +13,7 @@ I'm naturally skilled at solving problems. Think of me wielding a toolkit packed
 
 Currently now im more focused on 63 various technologies, and I'm focused in training and helping my community members learn about it. I'm proud to say I'm the founder of "The CloudnLoud Tech Community", which has grown and is now active in 13 countries. Our main goal is to help children with cancer, and this has driven me to create skilled leaders in the tech field from my community.
 
-As a Cloudnloud Community Founder, I have been instrumental in organizing and leading various Kubernetes events that aim to bring together developers, enthusiasts, and experts to share their knowledge and experiences. These events have provided valuable insights into the latest trends and best practices in cloud-native technologies, fostering a strong sense of community among attendees.
+As a **Cloudnloud Community Founder**, I have been instrumental in organizing and leading various Kubernetes events that aim to bring together developers, enthusiasts, and experts to share their knowledge and experiences. These events have provided valuable insights into the latest trends and best practices in cloud-native technologies, fostering a strong sense of community among attendees.
 
 ## 📬 Let's Connect
 
