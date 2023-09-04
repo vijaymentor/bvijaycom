@@ -35,9 +35,9 @@ Feel free to reach out to me for collaboration, discussions, or any queries rela
 
 ## 👁️ Profile Views📅
 
-[![Profile Views](https://komarev.com/ghpvc/?username=bvijaycom&color=blue)](https://github.com/bvijaycom)
-[![GitHub stars](https://img.shields.io/github/stars/bvijaycom/bvijaycom?style=social)](https://github.com/vijaymentor/vijaymentor)
-[![GitHub last commit](https://img.shields.io/github/last-commit/bvijaycom/bvijaycom)](https://github.com/vijaymentor/vijaymentor/commits/master)
+[![Profile Views](https://komarev.com/ghpvc/?username=vijaymentor&color=blue)](https://github.com/vijaymentor)
+[![GitHub stars](https://img.shields.io/github/stars/vijaymentor/vijaymentor?style=social)](https://github.com/vijaymentor/vijaymentor)
+[![GitHub last commit](https://img.shields.io/github/last-commit/vijaymentor/vijaymentor)](https://github.com/vijaymentor/vijaymentor/commits/master)
 
 </div>
 
