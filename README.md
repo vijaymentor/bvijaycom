@@ -364,7 +364,7 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 
 - :newspaper: I contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
 
-- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/vijaymentor/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) | [Twitter](https://twitter.com/bvijaycom) | [Instagram](https://www.instagram.com/bvijaycom/)
+- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/vijaymentor/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) | [Twitter](https://twitter.com/cloudnloud) | [Instagram](https://www.instagram.com/cloudnloud/)
 
 # My Life Story
 
