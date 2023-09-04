@@ -180,21 +180,21 @@ We organize free tech conferences, technical trainings, and discussions on vario
 
 🌟 Contributed to the Technology Sharing,Events:
 
-[What we do in community](https://www.linkedin.com/pulse/what-we-do-community-vijayabalan-balakrishnan/)
-[ComeBack Always Stronger Than SetBack](https://www.linkedin.com/pulse/comeback-always-stronger-than-setback-vijayabalan-balakrishnan/)
-[Cloud Native Free Classes - All in One](https://www.linkedin.com/pulse/cloud-native-free-classes-all-one-vijayabalan-balakrishnan/)
-[Cloud DevOps Jobs RoadMap](https://www.linkedin.com/pulse/cloud-devops-jobs-roadmap-vijayabalan-balakrishnan/)
-[Job Market - Cloud vs Cloud Native](https://www.linkedin.com/pulse/job-market-cloud-vs-native-vijayabalan-balakrishnan/)
-[Want to Become Cloud Native Expert?](https://www.linkedin.com/pulse/want-become-cloud-native-expert-vijayabalan-balakrishnan/)
+- [What we do in community](https://www.linkedin.com/pulse/what-we-do-community-vijayabalan-balakrishnan/)
+- [ComeBack Always Stronger Than SetBack](https://www.linkedin.com/pulse/comeback-always-stronger-than-setback-vijayabalan-balakrishnan/)
+- [Cloud Native Free Classes - All in One](https://www.linkedin.com/pulse/cloud-native-free-classes-all-one-vijayabalan-balakrishnan/)
+- [Cloud DevOps Jobs RoadMap](https://www.linkedin.com/pulse/cloud-devops-jobs-roadmap-vijayabalan-balakrishnan/)
+- [Job Market - Cloud vs Cloud Native](https://www.linkedin.com/pulse/job-market-cloud-vs-native-vijayabalan-balakrishnan/)
+- [Want to Become Cloud Native Expert?](https://www.linkedin.com/pulse/want-become-cloud-native-expert-vijayabalan-balakrishnan/)
 
-[Cloudnloud Newsletter 8](https://www.linkedin.com/pulse/cloudnloud-newsletter-vijayabalan-balakrishnan-4f/)
-[Cloudnloud Newsletter 7](https://www.linkedin.com/pulse/cloudnloud-newsletter-vijayabalan-balakrishnan-3f/)
-[Cloudnloud Newsletter 6](https://www.linkedin.com/pulse/cloudnloud-newsletter-vijayabalan-balakrishnan-2f/)
-[Cloudnloud Newsletter 5](https://www.linkedin.com/pulse/cloudnloud-newsletter-vijayabalan-balakrishnan-1f/)
-[Cloudnloud Newsletter 4](https://www.linkedin.com/pulse/cloudnloud-newsletter-4-vijayabalan-balakrishnan/)
-[Cloudnloud Newsletter 3](https://www.linkedin.com/pulse/cloudnloud-newsletter-3-vijayabalan-balakrishnan/)
-[Cloudnloud Newsletter 2](https://www.linkedin.com/pulse/cloudnloud-newsletter-2-vijayabalan-balakrishnan/)
-[Cloudnloud Newsletter 1](https://www.linkedin.com/pulse/cloudnloud-newsletter-1-vijayabalan-balakrishnan/)
+- [Cloudnloud Newsletter 8](https://www.linkedin.com/pulse/cloudnloud-newsletter-vijayabalan-balakrishnan-4f/)
+- [Cloudnloud Newsletter 7](https://www.linkedin.com/pulse/cloudnloud-newsletter-vijayabalan-balakrishnan-3f/)
+- [Cloudnloud Newsletter 6](https://www.linkedin.com/pulse/cloudnloud-newsletter-vijayabalan-balakrishnan-2f/)
+- [Cloudnloud Newsletter 5](https://www.linkedin.com/pulse/cloudnloud-newsletter-vijayabalan-balakrishnan-1f/)
+- [Cloudnloud Newsletter 4](https://www.linkedin.com/pulse/cloudnloud-newsletter-4-vijayabalan-balakrishnan/)
+- [Cloudnloud Newsletter 3](https://www.linkedin.com/pulse/cloudnloud-newsletter-3-vijayabalan-balakrishnan/)
+- [Cloudnloud Newsletter 2](https://www.linkedin.com/pulse/cloudnloud-newsletter-2-vijayabalan-balakrishnan/)
+- [Cloudnloud Newsletter 1](https://www.linkedin.com/pulse/cloudnloud-newsletter-1-vijayabalan-balakrishnan/)
 
 
 # :globe_with_meridians: Join Me in the Meetup Sphere:
