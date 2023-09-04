@@ -286,7 +286,7 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 
 - [Cloudnloud Programs ](https://www.linkedin.com/posts/vijaymentor_meetup-training-cloud-activity-7016348137023787008-AfaK/)
 
-<div align="center">
+
 
   
 ## AWS Cloud Free 2 months Internship - Week 1
