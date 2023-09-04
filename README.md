@@ -385,7 +385,6 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 
 
 <div align="center">
-  <a href="steffi.janani@gmail.com"><img src="mail_icon.png" alt="Mail" width="50" height="50"></a>
-  <a href="https://medium.com/@JananiTV"><img src="medium_icon.png" alt="Medium" width="50" height="50"></a>
-  <a href="https://www.linkedin.com/in/jananitv/"><img src="linkedin_icon.png" alt="LinkedIn" width="50" height="50"></a>
+  <img src="solution_architect_icon.png" alt="Solution Architect" width="50" height="50">
+  <img src="enterprise_architect_icon.png" alt="Enterprise Architect" width="50" height="50">
 </div>
