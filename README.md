@@ -21,8 +21,7 @@ Feel free to reach out to me for collaboration, discussions, or any queries rela
 
 # 📬 What Google Says Cloudnloud
 
-[![About Cloudnloud in Google Search](https://www.google.com/search?sca_esv=562522324&rlz=1C1GCEB_enBE1036BE1036&q=cloudnloud&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjDm8SO-5CBAxVp4AIHHZ-VD3gQ0pQJegQIDRAB&biw=2133&bih=1034&dpr=0.9)
-
+- https://www.google.com/search?sca_esv=562522324&rlz=1C1GCEB_enBE1036BE1036&q=cloudnloud&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjDm8SO-5CBAxVp4AIHHZ-VD3gQ0pQJegQIDRAB&biw=2133&bih=1034&dpr=0.9
 
 <div align="center">
 
