@@ -149,7 +149,7 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 
 ---
 
-![GitHub Profile](https://github-readme-stats.vercel.app/api?username=bvijaycom&show_icons=true&theme=white)
+![GitHub Profile](https://github-readme-stats.vercel.app/api?username=vijaymentor&show_icons=true&theme=white)
 
 ## 🌟 Technical Contribution & Volunteering
 
