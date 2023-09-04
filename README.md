@@ -164,6 +164,38 @@ The ☁️ CloudnLoud Tech Community is a non-profit open source tech community,
 
 We organize free tech conferences, technical trainings, and discussions on various IT technologies & open source tools. Our mission is to bring together professionals, leaders, and companies to advance the success of the project and contribute to a meaningful cause — saving millions of children affected by cancer.
 
+## ☁️ Cloudnloud Community 2022 Free Programs
+
+🌟 Contributed to the production of edited videos, the development of poster designs, and the creation of comprehensive documentation for the following utilization scenarios:
+
+- [Cloudnloud Community NewsLetter](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/)
+
+<div align="center">
+
+## ☁️ 1000+ members from 54 countries joined us in 6 months
+
+- [Cloudnloud Programs ](https://www.linkedin.com/posts/vijaymentor_meetup-training-cloud-activity-7016348137023787008-AfaK/)
+
+## ☁️ Cloudnloud Community Newsletter
+
+🌟 Contributed to the Technology Sharing,Events:
+
+[What we do in community](https://www.linkedin.com/pulse/what-we-do-community-vijayabalan-balakrishnan/)
+[ComeBack Always Stronger Than SetBack](https://www.linkedin.com/pulse/comeback-always-stronger-than-setback-vijayabalan-balakrishnan/)
+[Cloud Native Free Classes - All in One](https://www.linkedin.com/pulse/cloud-native-free-classes-all-one-vijayabalan-balakrishnan/)
+[Cloud DevOps Jobs RoadMap](https://www.linkedin.com/pulse/cloud-devops-jobs-roadmap-vijayabalan-balakrishnan/)
+[Job Market - Cloud vs Cloud Native](https://www.linkedin.com/pulse/job-market-cloud-vs-native-vijayabalan-balakrishnan/)
+[Want to Become Cloud Native Expert?](https://www.linkedin.com/pulse/want-become-cloud-native-expert-vijayabalan-balakrishnan/)
+
+[Cloudnloud Newsletter 8](https://www.linkedin.com/pulse/cloudnloud-newsletter-vijayabalan-balakrishnan-4f/)
+[Cloudnloud Newsletter 7](https://www.linkedin.com/pulse/cloudnloud-newsletter-vijayabalan-balakrishnan-3f/)
+[Cloudnloud Newsletter 6](https://www.linkedin.com/pulse/cloudnloud-newsletter-vijayabalan-balakrishnan-2f/)
+[Cloudnloud Newsletter 5](https://www.linkedin.com/pulse/cloudnloud-newsletter-vijayabalan-balakrishnan-1f/)
+[Cloudnloud Newsletter 4](https://www.linkedin.com/pulse/cloudnloud-newsletter-4-vijayabalan-balakrishnan/)
+[Cloudnloud Newsletter 3](https://www.linkedin.com/pulse/cloudnloud-newsletter-3-vijayabalan-balakrishnan/)
+[Cloudnloud Newsletter 2](https://www.linkedin.com/pulse/cloudnloud-newsletter-2-vijayabalan-balakrishnan/)
+[Cloudnloud Newsletter 1](https://www.linkedin.com/pulse/cloudnloud-newsletter-1-vijayabalan-balakrishnan/)
+
 
 # :globe_with_meridians: Join Me in the Meetup Sphere:
 
@@ -273,19 +305,6 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 - Sai Phaneendra Allamraju - https://www.linkedin.com/in/sai-phaneendra-allamraju-4a1061105/
 - Jahnavi - https://www.linkedin.com/in/baby-jahnavi-vetukuri-b3136a61/
 - Samsul - https://www.linkedin.com/in/samsul-adam-m-2627a325/
-
-## ☁️ Cloudnloud Community 2022 Free Programs
-
-🌟 Contributed to the production of edited videos, the development of poster designs, and the creation of comprehensive documentation for the following utilization scenarios:
-
-- [Cloudnloud Community NewsLetter](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/)
-
-<div align="center">
-
-## ☁️ 1000+ members from 54 countries joined us in 6 months
-
-- [Cloudnloud Programs ](https://www.linkedin.com/posts/vijaymentor_meetup-training-cloud-activity-7016348137023787008-AfaK/)
-
 
 
   
