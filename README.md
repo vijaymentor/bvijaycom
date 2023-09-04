@@ -380,3 +380,12 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 [![Watch the video](journey.png)](https://www.linkedin.com/feed/update/urn:li:activity:6930481278328692736/)
 
 - :newspaper: "𝐈 𝐧𝐞𝐯𝐞𝐫 𝐭𝐡𝐨𝐮𝐠𝐡𝐭 𝐭𝐡𝐚𝐭 𝐈 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐚 𝐦𝐞𝐧𝐭𝐨𝐫/𝐭𝐫𝐚𝐢𝐧𝐞𝐫.𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐂𝐥𝐞𝐚𝐧𝐞𝐫 𝐭𝐨 𝐑𝐞-𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 😊" **[𝐑𝐚𝐢𝐬𝐞𝐝 𝟒𝟓𝟎𝟎𝟎 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞𝐢𝐫 𝐨𝐰𝐧 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞](https://www.linkedin.com/feed/update/urn:li:activity:6930481278328692736/)**.
+
+
+
+
+<div align="center">
+  <a href="steffi.janani@gmail.com"><img src="mail_icon.png" alt="Mail" width="50" height="50"></a>
+  <a href="https://medium.com/@JananiTV"><img src="medium_icon.png" alt="Medium" width="50" height="50"></a>
+  <a href="https://www.linkedin.com/in/jananitv/"><img src="linkedin_icon.png" alt="LinkedIn" width="50" height="50"></a>
+</div>
