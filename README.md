@@ -9,7 +9,7 @@ I've spent more than **24+ years as a Linux Admin | Middleware Admin | Subject M
 I'm naturally skilled at solving problems. Think of me wielding a toolkit packed with specialized tools from Amazon Web My dream is to help all computer professionals, students and educators get the right information through helpful mentoring. Need to implement a permanent helping hand to all dying children just because they don't have money, children higher education, old age people, etc. 🔧 “𝐌𝐚𝐤𝐢𝐧𝐠 𝐚 𝐩𝐨𝐬𝐢𝐭𝐢𝐯𝐞 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐢𝐧 𝐨𝐭𝐡𝐞𝐫 𝐩𝐞𝐨𝐩𝐥𝐞’𝐬 𝐥𝐢𝐯𝐞𝐬 𝐢𝐧𝐜𝐫𝐞𝐚𝐬𝐞𝐬 𝐲𝐨𝐮𝐫 𝐬𝐞𝐥𝐟-𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐬𝐞𝐧𝐬𝐞 𝐨𝐟 𝐩𝐮𝐫𝐩𝐨𝐬𝐞.” ✨
 
 
-## 🌱 Always Learning
+## 🌱 Founder of Massive Tech Community Towards Cancer vision
 
 Currently now im more focused on 63 various technologies, and I'm focused in training and helping my community members learn about it. I'm proud to say I'm the founder of "The CloudnLoud Tech Community", which has grown and is now active in 13 countries. Our main goal is to help children with cancer, and this has driven me to create skilled leaders in the tech field from my community.
 
